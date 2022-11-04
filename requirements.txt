@@ -1,5 +1,6 @@
 pywin32
 pygetwindow
+pynput
 opencv-python
 numpy
 pyautogui
